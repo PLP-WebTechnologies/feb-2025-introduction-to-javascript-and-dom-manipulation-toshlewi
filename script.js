@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <img src="https://images.pexels.com/photos/29098224/pexels-photo-29098224/free-photo-of-bmw-3-series-car-at-sunset-in-erbil.jpeg?auto=compress&cs=tinysrgb&w=600" alt="BMW 3 Series">
         <h3>BMW 320i 2019</h3>
         <p>28,000 km | Automatic | Petrol</p>
-        <p class="price">R285,000</p>
+        <p class="price">Ksh 2.6M</p>
     `;
     carsContainer.appendChild(thirdCar);
     
